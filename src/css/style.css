@@ -434,3 +434,13 @@ button{
     background-color: #ffb549 !important;
     border:none !important
 }
+
+
+@media screen and (max-width: 400px) {
+    .why-pointechs-component>section>img, .how-it-works-img{
+        height: 65% ;
+    }
+    .pointechs-logo{
+        width: 150px;
+    }
+  }
